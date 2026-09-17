@@ -1,5 +1,7 @@
 Handwritten Number Recognition System (HNRP)
 
+https://e6355ea0b4127434c5.gradio.live
+
 COS30018 – Intelligent Systems | Swinburne University of Technology | Semester 2, 2026 Project Option B: Handwritten Number Recognition Problem
 
 	
